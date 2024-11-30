@@ -58,7 +58,7 @@ struct ContentView: View {
                     NavigationLink {
                         AudioRecorderView()
                     } label: {
-                        Text("Record Audio")
+                        Text("Audio Record")
                     }
                     
                 }
